@@ -1,0 +1,11 @@
+{
+    "name": "mimez/alfredapp",
+    "description": "alfred-app is a tiny helper for create alfred-app (a mac spotlight replacement) workflows",
+    "type": "library",
+    "license": "GPLv3",
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}
